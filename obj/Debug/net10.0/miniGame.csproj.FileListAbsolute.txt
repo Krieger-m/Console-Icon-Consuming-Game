@@ -1,0 +1,14 @@
+X:\c#\CsharpProjects\miniGame\bin\Debug\net10.0\miniGame.exe
+X:\c#\CsharpProjects\miniGame\bin\Debug\net10.0\miniGame.deps.json
+X:\c#\CsharpProjects\miniGame\bin\Debug\net10.0\miniGame.runtimeconfig.json
+X:\c#\CsharpProjects\miniGame\bin\Debug\net10.0\miniGame.dll
+X:\c#\CsharpProjects\miniGame\bin\Debug\net10.0\miniGame.pdb
+X:\c#\CsharpProjects\miniGame\obj\Debug\net10.0\miniGame.GeneratedMSBuildEditorConfig.editorconfig
+X:\c#\CsharpProjects\miniGame\obj\Debug\net10.0\miniGame.AssemblyInfoInputs.cache
+X:\c#\CsharpProjects\miniGame\obj\Debug\net10.0\miniGame.AssemblyInfo.cs
+X:\c#\CsharpProjects\miniGame\obj\Debug\net10.0\miniGame.csproj.CoreCompileInputs.cache
+X:\c#\CsharpProjects\miniGame\obj\Debug\net10.0\miniGame.dll
+X:\c#\CsharpProjects\miniGame\obj\Debug\net10.0\refint\miniGame.dll
+X:\c#\CsharpProjects\miniGame\obj\Debug\net10.0\miniGame.pdb
+X:\c#\CsharpProjects\miniGame\obj\Debug\net10.0\miniGame.genruntimeconfig.cache
+X:\c#\CsharpProjects\miniGame\obj\Debug\net10.0\ref\miniGame.dll
