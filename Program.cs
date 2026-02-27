@@ -44,7 +44,7 @@ while (!shouldExit)
 // checks if player is eating the food
 bool ConsumedTheFood(int pX, int pY, int fX, int fY)
 {
-    return pX == fX && pY == fY;
+    return pY == fY && Math.Abs(pX - fX) < player.Length;
 }
 
 bool ShouldFreeze(string player) => player == "(X_X)";
@@ -141,6 +141,11 @@ void Move(int speed = 1)
     // check if food is consumed
     if (ConsumedTheFood(playerX, playerY, foodX, foodY))
     {
+        Console.SetCursorPosition(foodX, foodY);
+        for (int i = 0; i < foods[food].Length; i++)
+        {
+            Console.Write(" ");
+        }
         ChangePlayer();
         ShowFood();
     }
