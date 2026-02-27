@@ -8,8 +8,8 @@ Move the player using the arrow keys (← ↑ → ↓). Different food items app
 
 | Food | Player State | Effect |
 |------|--------------|--------|
-| `@@@@@` | `(^-^)` | Increased movement speed |
-| `$$$$$` | `('-')` | No effect |
+| `@@@@@` | `('-')` | No effect |
+| `$$$$$` | `(^-^)` | Increased movement speed |
 | `#####` | `(X_X)` | Player freezes briefly |
 
 The player’s appearance changes to match the food consumed, and each state affects movement until it resets.
