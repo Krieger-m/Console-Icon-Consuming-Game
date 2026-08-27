@@ -40,7 +40,7 @@ cd Console-Icon-Consuming-Game
 ```
   
 ## Run the Game
-Start the project:
+Compile and start the game:
 ```bash
 dotnet run
 ```
