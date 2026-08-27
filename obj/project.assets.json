@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "X:\\c#\\CsharpProjects\\miniGame\\miniGame.csproj",
+      "projectUniqueName": "X:\\asp.net_core\\Console-Icon-Consuming-Game\\miniGame.csproj",
       "projectName": "miniGame",
-      "projectPath": "X:\\c#\\CsharpProjects\\miniGame\\miniGame.csproj",
+      "projectPath": "X:\\asp.net_core\\Console-Icon-Consuming-Game\\miniGame.csproj",
       "packagesPath": "C:\\Users\\matze\\.nuget\\packages\\",
-      "outputPath": "X:\\c#\\CsharpProjects\\miniGame\\obj\\",
+      "outputPath": "X:\\asp.net_core\\Console-Icon-Consuming-Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -73,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.111/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.CSharp": "(,4.7.32767]",
           "Microsoft.VisualBasic": "(,10.4.32767]",
