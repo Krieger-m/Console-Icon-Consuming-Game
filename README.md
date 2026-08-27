@@ -29,11 +29,19 @@ The player’s appearance changes to match the food consumed, and each state aff
 - **ConsumedTheFood()** checks collisions  
 - **ChangePlayer()** updates the player’s appearance  
 - **ShouldFreeze()** and **FreezePlayer()** manage the freeze effect  
-- **MoveSpeed()** adjusts movement speed based on the current state  
-
-## Running the Game
-
-Compile and run with:
-
+- **MoveSpeed()** adjusts movement speed based on the current state
+  
+## Getting Started
+Clone the repository and navigate into the project folder:
+  
+```bash
+git clone <repo-url>
+cd Console-Icon-Consuming-Game
+```
+  
+## Run the Game
+Start the project:
 ```bash
 dotnet run
+```
+  
